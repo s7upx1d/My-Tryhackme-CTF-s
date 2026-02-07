@@ -28,7 +28,7 @@ python3 49933
 
 The script asks us for the host URL Enter the full host url: 
 
- http://10.10.89.136
+ http://< machine-ip > 
 
 Here we get a shell on the target machine, now we can search for a flag
 
